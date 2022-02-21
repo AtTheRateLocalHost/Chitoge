@@ -11,8 +11,8 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/ShinNouzen/Chitoge#readme",
-  "repository": "https://github.com/ShinNouzen/Chitoge.git",
+  "website": "https://github.com/AtTheRateLocalHost/Chitoge#readme",
+  "repository": "https://github.com/AtTheRateLocalHost/Chitoge.git",
   "logo": "https://wallpapermemory.com/uploads/711/chitoge-kirisaki-wallpaper-full-hd-323316.jpg",
   "success_url": "/",
   "env": {
@@ -63,13 +63,13 @@
           "url": "heroku/nodejs"
       },
       {
-          "url": "https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+          "url": "https://github.com/AtTheRateLocalHost/heroku-buildpack-imagemagick.git"
       },
       {
-          "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          "url": "https://github.com/AtTheRateLocalHost/heroku-buildpack-webp-binaries.git"
       },
       {
-          "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          "url": "https://github.com/AtTheRateLocalHost/heroku-buildpack-ffmpeg-latest.git"
       }
   ]
 }
